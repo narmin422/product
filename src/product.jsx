@@ -1,6 +1,4 @@
- export function Product(){
-    
-   }
+ 
   
     export function ProductName(){
     return <h3>Car</h3>
